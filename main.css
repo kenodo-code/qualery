@@ -1,7 +1,7 @@
 .zona-descripcion a {
-    color: #d18901;
     font-weight: bold;
     text-decoration:none !important;
+    border-bottom: 3px solid #d18901;
 }
 .zona-descripcion a:hover {
     color: #d18901;
