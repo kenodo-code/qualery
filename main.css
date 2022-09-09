@@ -1,1 +1,26 @@
+.zona-descripcion a {
+    color: #d18901;
+    font-weight: bold;
+    text-decoration:none !important;
+}
+.zona-descripcion a:hover {
+    color: #d18901;
+}
 
+.zona-descripcion h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.zona-descripcion h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.zona-descripcion p {
+    margin-bottom: 25px;
+}
