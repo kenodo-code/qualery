@@ -5,6 +5,11 @@
 }
 .zona-descripcion a:hover {
     color: #d18901;
+    border-bottom: 3px solid #d18901;
+}
+
+.zona-descripcion h1 a {
+    border-bottom: none;
 }
 
 .zona-descripcion h2 {
